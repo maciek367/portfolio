@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://maciek367.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Maciej Bąba's Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Maciej Bąba's Portfolio",
     "author": "Maciej Bąba",
     "avatar": "../content/images/favicon.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Passionate and committed Full Stack Developer",
     "social": {
       "github": "https://github.com/maciek367",
       "linkedin": "https://www.linkedin.com/in/maciej-b%C4%85ba-0255b4213/",
@@ -15,7 +15,9 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": {
+      "text": "Portfolio"
+    },
     "navigation": {
       "header": [
         { "label": "Stack", "url": "/#stack" },
