@@ -9,20 +9,18 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/maciek367",
+      "linkedin": "https://www.linkedin.com/in/maciej-b%C4%85ba-0255b4213/",
+      "mail": "mailto:maciek2baba2@gmail.com"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
         { "label": "Stack", "url": "/#stack" },
-        { "label": "Projects", "url": "/#projects" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
