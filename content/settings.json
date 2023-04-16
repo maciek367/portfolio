@@ -3,7 +3,7 @@
     "language": "en",
     "siteUrl": "https://maciek367.netlify.app/",
     "title": "Maciej Bąba's Portfolio",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "Maciej Bąba's Portfolio Minimal",
     "description": "Maciej Bąba's Portfolio",
     "author": "Maciej Bąba",
     "avatar": "../content/images/favicon.png",
@@ -30,12 +30,12 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "/privacy" },
+        { "label": "", "url": "/imprint" }
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }

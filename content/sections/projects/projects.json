@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🕹️ Project",
       "title": "Countries v2",
-      "description": "Second version of Countries built with TS, React, REST API and Tailwind. It was created after first version in order to see the difference in building SPA's or pages in general with and wihtout modern technologies",
+      "description": "Second version of Countries built with TS, React, REST API and Tailwind. It was created after first version in order to see the difference in building SPA's or sites in general with and without modern technologies",
       "tags": ["Mobile friendly", "REST API", "Reactive"],
       "image": {
         "src": "../../images/countriesTS.png",
@@ -26,17 +26,38 @@
       "visible": true,
       "category": "🧰 WORK IN PROGRESS",
       "title": "aBay - e-commerce store",
-      "description": "Full stack app with backend and frontend. It will have users, items to sell, cart, user authentication and routing",
-      "tags": ["Users Management", "Full stack"],
+      "description": "Full stack app with backend and frontend. It has users, items, cart, user authentication, routing, and more. It was created to learn more about React, Redux, Node.js, Express and MongoDB. It is still in progress and I am working on it in my free time.",
+      "tags": ["Users Management", "Full stack", "E-commerce"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/abay.png",
+        "alt": "Screenshot of the aBay project"
       },
       "links": [
         {
           "type": "github",
           "url": "https://github.com/maciek367/mern-ecommerce"
         }
+      ]
+    }, {
+      "visible": true,
+      "category": "🧰 WORK IN PROGRESS",
+      "title": "Calculator without eval()",
+      "description": "Calculator project built without eval() function, which is considered as a bad practice. It was created in VanillaJS, HTML and CSS.",
+      "tags": ["Math", "Functions", "VanillaJS"],
+      "image": {
+        "src": "../../images/abay.png",
+        "alt": "Screenshot of the aBay project"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/maciek367/calculator"
+        },
+        {
+          "type": "external",
+          "url": "https://maciek367.github.io/calculator/"
+        }
+
       ]
     }
   ],

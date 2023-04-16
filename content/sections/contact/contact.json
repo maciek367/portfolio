@@ -1,10 +1,10 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
+  "name": "Maciej Bąba",
   "email": "maciek2baba2@gmail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "Feel free to contact me via email or LinkedIn, I'll get back to you as soon as possible. Also I encourage you to check my Github profile, especially my latest projects.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/linkedin-photo.jpg",
+    "alt": "Maciej Bąba's Photo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
