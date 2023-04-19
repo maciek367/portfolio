@@ -36,6 +36,10 @@
         {
           "type": "github",
           "url": "https://github.com/maciejbaba/mern-ecommerce"
+        },
+        {
+          "type": "external",
+          "url": "https://mern-ecommerce-beta.vercel.app/"
         }
       ]
     }, {
@@ -46,7 +50,7 @@
       "tags": ["Math", "Functions", "VanillaJS"],
       "image": {
         "src": "../../images/calculator.png",
-        "alt": "Screenshot of the aBay project"
+        "alt": "Screenshot of the calculator project"
       },
       "links": [
         {
