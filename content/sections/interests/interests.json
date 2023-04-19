@@ -4,56 +4,56 @@
       "label": "JavaScript",
       "image": {
         "src": "../../images/js.png",
-        "alt": ""
+        "alt": "JS icon"
       }
     },
     {
       "label": "HTML",
       "image": {
         "src": "../../images/html.png",
-        "alt": ""
+        "alt": "HTMl icon"
       }
     },
     {
       "label": "CSS",
       "image": {
         "src": "../../images/css.png",
-        "alt": ""
+        "alt": "CSS icon"
       }
     },
     {
       "label": "SQL",
       "image": {
         "src": "../../images/sql.png",
-        "alt": ""
+        "alt": "SQL icon"
       }
     },
     {
       "label": "Git",
       "image": {
         "src": "../../images/git.png",
-        "alt": ""
+        "alt": "Git icon"
       }
     },
     {
       "label": "Tailwind",
       "image": {
         "src": "../../images/tailwind.png",
-        "alt": ""
+        "alt": "Tailwind icon"
       }
     },
     {
       "label": "React",
       "image": {
         "src": "../../images/react.png",
-        "alt": ""
+        "alt": "React icon"
       }
     },
     {
       "label": "Redux",
       "image": {
         "src": "../../images/redux.png",
-        "alt": ""
+        "alt": "Redux icon"
       }
     }
   ],
