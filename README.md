@@ -1,4 +1,5 @@
 # This is project of my portfolio built with Gatsby template
+## It was created in order to experiment with Gatsby
 
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
