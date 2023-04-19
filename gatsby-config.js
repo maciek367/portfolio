@@ -13,7 +13,11 @@ module.exports = {
           themeColor: "#000000", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
-        contentDirectory: "./content",
+        contentDirectory: "./content", // turn out that this is necessary in order for page to work
+        blogSettings: {
+          path: "/blog", // Defines the slug for the blog listing page
+          usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
+        },
         // googleAnalytics: {
         //     trackingId: "UA-XXXXXX-X",
         //     anonymize: true, // Default true
