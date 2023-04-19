@@ -9,7 +9,7 @@
     "avatar": "../content/images/favicon.png",
     "bio": "Passionate and committed Full Stack Developer",
     "social": {
-      "github": "https://github.com/maciek367",
+      "github": "https://github.com/maciejbaba",
       "linkedin": "https://www.linkedin.com/in/maciej-b%C4%85ba-0255b4213/",
       "mail": "mailto:maciek2baba2@gmail.com"
     }
@@ -24,11 +24,6 @@
         { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
-      "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
-      },
       "footer": [
         { "label": "", "url": "/privacy" },
         { "label": "", "url": "/imprint" }

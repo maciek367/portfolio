@@ -14,7 +14,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/maciek367/countries-rest-api-react-ts"
+          "url": "https://github.com/maciejbaba/countries-rest-api-react-ts"
         },
         {
           "type": "external",
@@ -35,7 +35,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/maciek367/mern-ecommerce"
+          "url": "https://github.com/maciejbaba/mern-ecommerce"
         }
       ]
     }, {
@@ -45,17 +45,17 @@
       "description": "Calculator project built without eval() function, which is considered as a bad practice. It was created in VanillaJS, HTML and CSS.",
       "tags": ["Math", "Functions", "VanillaJS"],
       "image": {
-        "src": "../../images/abay.png",
+        "src": "../../images/calculator.png",
         "alt": "Screenshot of the aBay project"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/maciek367/calculator"
+          "url": "https://github.com/maciejbaba/calculator"
         },
         {
           "type": "external",
-          "url": "https://maciek367.github.io/calculator/"
+          "url": "https://maciejbaba.github.io/calculator/"
         }
 
       ]
